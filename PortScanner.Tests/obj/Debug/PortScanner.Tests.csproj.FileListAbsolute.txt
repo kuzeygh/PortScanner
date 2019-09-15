@@ -1,0 +1,17 @@
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\PortScanner.Tests.dll
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\PortScanner.Tests.pdb
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\PortScanner.exe
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\PortScanner.pdb
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\PortScanner.exe.config
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\obj\Debug\PortScanner.Tests.csprojAssemblyReference.cache
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\obj\Debug\PortScanner.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\obj\Debug\PortScanner.Tests.csproj.CopyComplete
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\obj\Debug\PortScanner.Tests.dll
+C:\Users\Muhammed\Source\Repos\PortScanner\PortScanner.Tests\obj\Debug\PortScanner.Tests.pdb
