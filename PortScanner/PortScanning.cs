@@ -71,7 +71,8 @@ namespace PortScanner
         public static async Task PortDetecter(string targetIP, ObservableCollection<PortModel> openPorts, CancellationToken ct)
         {
             List<int> openPortList = new List<int>();
-            for (int i = 79; i < uint.MaxValue; i++)
+            var maxPortNumber = ushort.MaxValue;
+            for (int i = 1; i < maxPortNumber; i++)
             {
                 if (ct.IsCancellationRequested)
                     throw new OperationCanceledException();
